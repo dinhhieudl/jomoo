@@ -31,7 +31,6 @@ Copy prompt bên dưới và thay thế `[TÊN SẢN PHẨM]` bằng model sản
    - Bảng tóm tắt tính năng ở cuối
    - Bảng thông số kỹ thuật
    - Danh sách phụ kiện đi kèm
-   - Footer bảo hành + hotline
 
 QUAN TRỌNG:
 - KHÔNG sử dụng bất kỳ từ tiếng Trung nào trong bài viết
@@ -44,9 +43,15 @@ QUAN TRỌNG:
   + 静音 → Yên tĩnh
   + 普通 → Thông thường
 - Slug sản phẩm: bon-cau-thong-minh-jomoo-[ten-san-pham] (không dấu, ngăn cách -)
-- Giá sản phẩm: để trống (không set price)
-- Không đề cập đến bảo hành, hotline, lắp đặt
+- Giá sản phẩm: để trống (không set price, không set regular_price, không set sale_price)
 - Nếu cần update sản phẩm đã có: dùng PUT /wp-json/wc/v3/products/{id}
+
+🚫 TUYỆT ĐỐI KHÔNG ĐỀ CẬP (cả trong nội dung bài lẫn footer):
+- Giá bán / giá niêm yết / giá khuyến mãi / "Giá tham khảo"
+- Bảo hành / thời hạn bảo hành / chính sách bảo hành
+- Hotline / số điện thoại / liên hệ
+- Lắp đặt / dịch vụ lắp đặt / hỗ trợ lắp đặt
+- Bất kỳ thông tin nào liên quan đến giá cả, liên hệ, bảo hành, lắp đặt
 
 
 Categories WooCommerce có sẵn:
@@ -105,8 +110,8 @@ Cập nhật bài sản phẩm JOMOO ZS800I trên thichboncau.com (ID: 543), th�
 | ZS680 | - | - | Chưa đăng |
 | ZS520I-S2 | - | - | Chưa đăng |
 | ZS300P | - | - | Chưa đăng |
-| ZD8611 | - | - | Chưa đăng |
-| ZD8920 | - | - | Chưa đăng |
+| ZD8611 | P50 treo tường UV | ¥11,349 | ✅ Đã đăng (ID: 761) |
+| ZD8920 | i90 flagship 3 tầng bảo vệ | ¥13,349 | ✅ Đã đăng (ID: 772) |
 
 ### Phụ kiện (có PRODUCT_VI.md + ảnh đã trim):
 | Model | Tên | Giá (NDT) | Trạng thái |
