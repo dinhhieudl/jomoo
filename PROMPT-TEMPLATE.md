@@ -93,8 +93,8 @@ Cập nhật bài sản phẩm JOMOO ZS800I trên thichboncau.com (ID: 543), th�
 ### Bồn cầu thông minh (có PRODUCT_VI.md + ảnh đã trim):
 | Model | Tên | Giá (NDT) | Trạng thái |
 |---|---|---|---|
-| ZS860 | 净界 Ultra | ¥4,923 | Chưa đăng |
-| ZS860-1 | 净界 Ultra (Nâng cấp) | ¥5,532 | Chưa đăng |
+| ZS860 | 净界 Ultra | ¥4,923 | ✅ Đã đăng (ID: 817) |
+| ZS860-1 | 净界 Ultra (Nâng cấp) | ¥5,532 | ✅ Đã đăng (ID: 818) |
 | ZS800I | 净界 Air | ¥4,224 | ✅ Đã đăng (ID: 543) |
 | ZS800J | 净界 Pro | - | Chưa đăng |
 | ZS780 | - | - | Chưa đăng |
@@ -108,8 +108,8 @@ Cập nhật bài sản phẩm JOMOO ZS800I trên thichboncau.com (ID: 543), th�
 | ZS680U | - | - | Chưa đăng |
 | ZS680I | - | - | Chưa đăng |
 | ZS680 | - | - | Chưa đăng |
-| ZS520I-S2 | - | - | Chưa đăng |
-| ZS300P | - | - | Chưa đăng |
+| ZS520I-S2 | Khử mùi bạch kim | ¥2,293 | ✅ Đã đăng (ID: 816) |
+| ZS300P | Không cần áp lực nước | ¥1,909 | ✅ Đã đăng (ID: 815) |
 | ZD8611 | P50 treo tường UV | ¥11,349 | ✅ Đã đăng (ID: 761) |
 | ZD8920 | i90 flagship 3 tầng bảo vệ | ¥13,349 | ✅ Đã đăng (ID: 772) |
 
