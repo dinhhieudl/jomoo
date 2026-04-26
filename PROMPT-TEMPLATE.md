@@ -48,10 +48,6 @@ QUAN TRỌNG:
 - Không đề cập đến bảo hành, hotline, lắp đặt
 - Nếu cần update sản phẩm đã có: dùng PUT /wp-json/wc/v3/products/{id}
 
-Config WordPress:
-WP_URL='https://thichboncau.com'
-WP_USERNAME='thichboncau_wp'
-WP_APP_PASSWORD='6o3V WqNH ulhz Xmgj 4UTB lgQj'
 
 Categories WooCommerce có sẵn:
 - ID 17: Bồn Cầu
