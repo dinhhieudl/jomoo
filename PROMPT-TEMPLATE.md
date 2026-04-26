@@ -37,7 +37,7 @@ QUAN TRỌNG:
 - KHÔNG sử dụng bất kỳ từ tiếng Trung nào trong bài viết
 - Tất cả thuật ngữ phải dịch sang tiếng Việt:
   + 净界Air → Dòng Air
-  + 微波 → Sóng vi ba
+  + 微波 → Sóng siêu âm
   + 人体工学 → Công thái học
   + NFC一键 → NFC một chạm
   + 脉冲 → Xung mạnh
@@ -45,6 +45,7 @@ QUAN TRỌNG:
   + 普通 → Thông thường
 - Slug sản phẩm: bon-cau-thong-minh-jomoo-[ten-san-pham] (không dấu, ngăn cách -)
 - Giá sản phẩm: để trống (không set price)
+- Không đề cập đến bảo hành, hotline, lắp đặt
 - Nếu cần update sản phẩm đã có: dùng PUT /wp-json/wc/v3/products/{id}
 
 Config WordPress:
